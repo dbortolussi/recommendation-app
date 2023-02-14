@@ -1,0 +1,1 @@
+To run the app, run app.R as a shiny app, i.e. "shiny::runApp('app.R')", in its directory with the other files.
